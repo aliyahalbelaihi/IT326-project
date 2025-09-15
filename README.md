@@ -15,7 +15,7 @@ We chose this dataset because heart disease remains a major public health issue,
 
 ## Students  
 - Joud Al-Tarad  
-- Aliyah Al-Bulaihi  
+- Aliyah Al-Belaihi 
 - Sadeem Al-Nassar  
 - Shahad Al-Dosari  
 - Rimas Abuderman
